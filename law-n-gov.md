@@ -1,8 +1,8 @@
 Rule of Law
 ===========
-+ ## Origin
++ ##Origin
     * The rule of law came out in 1215, Magna Carta in the Anglo-English Era.  
-+ ## Definition
++ ##Definition
     * Unwritten, uncodified priciple of governance that is defined as the restriction of the arbitraty exercise  
       of power by subordinating it to well defined and established laws.  
       The UN Sec Gen DEF (2004) defines the rule of law as a priniciple of governace in which all persons, insitiutins, entitioes (publicly or privately)  
