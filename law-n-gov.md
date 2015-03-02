@@ -1,6 +1,7 @@
 Rule of Law
 ===========
-+ ##Origin
++ Origin
+--------
     * The rule of law came out in 1215, Magna Carta in the Anglo-English Era.  
 + ##Definition
     * Unwritten, uncodified priciple of governance that is defined as the restriction of the arbitraty exercise  
